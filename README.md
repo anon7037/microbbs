@@ -1,4 +1,4 @@
-BBSEngine -- Движок для параш основанный на TinyIB
+DanatBoard -- форк маламутовского BBSengine, который сделан на основе tinyIB.
 ====
 
 
