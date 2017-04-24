@@ -1,4 +1,4 @@
-DanatBoard -- форк маламутовского BBSengine, который сделан на основе tinyIB.
+microbbs -- форк маламутовского BBSengine, который сделан на основе tinyIB.
 ====
 
 
